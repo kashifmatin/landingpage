@@ -123,7 +123,7 @@
 
 /* Landscape  */
 
-@media (max-height:360px) {
+@media (max-height:375px) {
     #showcase {
         max-width: 100%;
     }
